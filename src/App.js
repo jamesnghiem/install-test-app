@@ -1,5 +1,9 @@
+import mixpanel from 'mixpanel-browser';
 import logo from './logo.svg';
 import './App.css';
+
+mixpanel.init('053e56ebccab179788cb79e4ad139f28', {debug: true});
+mixpanel.track('Loading page');
 
 function App() {
   return (
