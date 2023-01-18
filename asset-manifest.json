@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/install-test-app/static/css/main.073c9b0a.css",
-    "main.js": "/install-test-app/static/js/main.1c2bbac6.js",
+    "main.js": "/install-test-app/static/js/main.b08327fc.js",
     "static/js/787.7ee521bb.chunk.js": "/install-test-app/static/js/787.7ee521bb.chunk.js",
     "static/media/logo.svg": "/install-test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/install-test-app/index.html",
     "main.073c9b0a.css.map": "/install-test-app/static/css/main.073c9b0a.css.map",
-    "main.1c2bbac6.js.map": "/install-test-app/static/js/main.1c2bbac6.js.map",
+    "main.b08327fc.js.map": "/install-test-app/static/js/main.b08327fc.js.map",
     "787.7ee521bb.chunk.js.map": "/install-test-app/static/js/787.7ee521bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1c2bbac6.js"
+    "static/js/main.b08327fc.js"
   ]
 }
